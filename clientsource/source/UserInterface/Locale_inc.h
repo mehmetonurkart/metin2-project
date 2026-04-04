@@ -1,0 +1,12 @@
+#define LOCALE_SERVICE_SINGAPORE			// ½Ì°¡Æú
+#define ENABLE_COSTUME_SYSTEM
+#define ENABLE_ENERGY_SYSTEM
+#define __BL_CLIP_MASK__
+#define __BL_MOUSE_WHEEL_TOP_WINDOW__
+#define __BL_SMOOTH_SCROLL__
+#define /* @author: Owsap */ ENABLE_QUEST_RENEWAL // Quest Page Renewal
+#define __BL_SAVE_CAMERA_MODE__
+#define __BL__DETAILS_UI__
+#define __BL_MIDDLE_BOARD_WINDOW__
+#define ENABLE_DRAGON_SOUL_SYSTEM
+#define ENABLE_NEW_EQUIPMENT_SYSTEM
